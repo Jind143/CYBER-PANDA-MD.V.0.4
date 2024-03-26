@@ -25,7 +25,7 @@ global.Owner = ["+923101699985", "+923101699985"];         //If you want singal 
 global.OwnerNumber = ["+923101699985", "+923101699985"];   //If you want singal number so global.Owner = ['923101699985'] Change into your number.
 global.ownertag = ["+94704274987"];
 global.OwnerName = "Mr Hasnain Khan";
-global.BotName = "Mr Hasnain ";
+global.BotName = "👑⃝❤️⃝❂͜͡ʜA̶S̶N̶A̶I̶N͜͡⃝⍣⃟❂͜͡࿐";
 global.packname = "🦋 │𝐂𝐘𝐁𝜩𝐑│𝐏𝜟𝐍𝐃𝐀│𝐌𝐃│𝐕➂ 🦋";                             //Do not change.
 global.author = "SACHITH";                               //Do not change.
 global.BotSourceCode = "https://github.com/Kai00"; //Do not change.
